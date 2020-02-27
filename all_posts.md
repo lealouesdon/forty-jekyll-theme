@@ -4,7 +4,7 @@ title: My projects
 landing-title: 'My projects'
 nav-menu: true
 description: null
-image: null
+image: assets/images/marvin-meyer-SYTO3xs06fU-unsplash.jpg
 author: null
 show_tile: true
 ---
