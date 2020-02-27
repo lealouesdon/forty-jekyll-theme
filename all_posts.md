@@ -1,12 +1,12 @@
 ---
 layout: allposts
-title: My projects
-landing-title: 'My projects'
+title: My Education
+landing-title: "My Education"
 nav-menu: true
 description: null
-image: assets/images/marvin-meyer-SYTO3xs06fU-unsplash.jpg
+image: assets/images/bantersnaps-9o8YdYGTT64-unsplash.jpg
 author: null
 show_tile: true
 ---
 
-<h1>My projects</h1>
+<h1>My Education</h1>

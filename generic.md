@@ -1,8 +1,8 @@
 ---
 layout: post
 title: About me
-description: 
-image: assets/images/pic11.jpg
+description:
+image: assets/images/my_image.jpg
 nav-menu: true
 ---
 
