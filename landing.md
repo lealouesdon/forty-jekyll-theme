@@ -35,8 +35,8 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="project2.html" class="image">
-			<img src="{% link assets/images/banner.jpg %}" alt="" data-position="top center" />
+		<a href="projet2.html" class="image">
+			<img src="{% link assets/images/logo_steazzi.png %}" alt="" data-position="top center" style="width: 60%;"/>
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -45,14 +45,14 @@ nav-menu: true
 				</header>
 				<p>A Flutter App</p>
 				<ul class="actions">
-					<li><a href="project2.html" class="button">Learn more</a></li>
+					<li><a href="projet2.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="project3.html" class="image">
-			<img src="{% link assets/images/banner.jpg %}" alt="" data-position="25% 25%" />
+		<a href="projet3.html" class="image">
+			<img src="{% link assets/images/moniport.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -61,13 +61,13 @@ nav-menu: true
 				</header>
 				<p>Using GO and MQTT.</p>
 				<ul class="actions">
-					<li><a href="project3.html" class="button">Learn more</a></li>
+					<li><a href="projet3.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="project3.html" class="image">
+		<a href="projet4.html" class="image">
 			<img src="{% link assets/images/banner.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -77,7 +77,7 @@ nav-menu: true
 				</header>
 				<p>Using Python, Flask, OpenCV and Flutter.</p>
 				<ul class="actions">
-					<li><a href="project3.html" class="button">Learn more</a></li>
+					<li><a href="projet4.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>

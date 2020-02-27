@@ -2,7 +2,7 @@
 layout: post
 title: Performance 400
 description:
-image:
+image: assets/images/tracking_exemple.jpg
 nav-menu: false
 show_tile: false
 ---
