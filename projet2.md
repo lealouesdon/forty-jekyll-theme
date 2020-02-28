@@ -15,4 +15,4 @@ show_tile: false
 <h3>The Technologies</h3>
 <p>The app is coded in Flutter, with an Api for the backend.</p>
 
-Website : <ahref="http://www.steazzi-handball.com/">http://www.steazzi-handball.com/</a>
+Website : <a href="http://www.steazzi-handball.com/">http://www.steazzi-handball.com/</a>
