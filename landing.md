@@ -98,6 +98,22 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	<section>
+		<a href="projet6.html" class="image">
+			<img src="{% link assets/images/banner.jpg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Enigmarium</h3>
+				</header>
+				<p>Using Java.</p>
+				<ul class="actions">
+					<li><a href="projet6.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 </section>
 
 </div>
