@@ -2,7 +2,7 @@
 layout: post
 title: CMM
 description:
-image: assets/images/tracking_exemple.jpg
+image: assets/images/cmm.JPG
 nav-menu: false
 show_tile: false
 ---
