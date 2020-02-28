@@ -27,7 +27,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Steazzi</h3>
 				</header>
-				<p>A Flutter App</p>
+				<p>Using Flutter.</p>
 				<ul class="actions">
 					<li><a href="projet2.html" class="button">Learn more</a></li>
 				</ul>
