@@ -26,6 +26,7 @@ show_tile: true
 					<h3>Web Developper</h3>
 				</header>
 				<p>Hardis Group</p>
+				<p>In apprenticeship for 3 years.</p>
 			</div>
 		</div>
 	</section>
@@ -34,9 +35,10 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Comunication Manager</h3>
+					<h3>Communication Manager</h3>
 				</header>
 				<p>School Art Association</p>
+				<p>In charge of the communication of the association for a year. Writing articles and creating visual content.</p>
 			</div>
 		</div>
 	</section>
@@ -45,9 +47,10 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>ASP.NET Intern</h3>
+					<h3>ASP.NET Developer</h3>
 				</header>
 				<p>STMicroelectronics</p>
+				<p>2 months internship developping an Web solution for a client.</p>
 			</div>
 		</div>
 	</section>
@@ -59,6 +62,7 @@ show_tile: true
 					<h3>Camp Instructor</h3>
 				</header>
 				<p>Telligo</p>
+				<p>In charge of children from 9 to 13 years old. The camp was on the subject of robots.</p>
 			</div>
 		</div>
 	</section>
