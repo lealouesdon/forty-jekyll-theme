@@ -20,7 +20,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="projet2.html" class="image">
-			<img src="{% link assets/images/logo_steazzi.png %}" alt="" data-position="top center" style="width: 60%;"/>
+			<img src="/forty-jekyll-theme/assets/images/logo_steazzi.png" alt="" data-position="top center" style="width: 60%;"/>
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -36,7 +36,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="projet4.html" class="image">
-			<img src="{% link assets/images/banner.jpg %}" alt="" data-position="25% 25%" />
+			<img src="/forty-jekyll-theme/assets/images//banner.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -52,7 +52,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="projet1.html" class="image">
-			<img src="{% link assets/images/jeudemots.png %}" alt="" data-position="center center" />
+			<img src="/forty-jekyll-theme/assets/images//jeudemots.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -68,7 +68,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="projet3.html" class="image">
-			<img src="{% link assets/images/moniport.jpg %}" alt="" data-position="25% 25%" />
+			<img src="/forty-jekyll-theme/assets/images/moniport.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -84,7 +84,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="projet5.html" class="image">
-			<img src="{% link assets/images/banner.jpg %}" alt="" data-position="25% 25%" />
+			<img src="/forty-jekyll-theme/assets/images/banner.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -100,7 +100,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="projet6.html" class="image">
-			<img src="{% link assets/images/banner.jpg %}" alt="" data-position="25% 25%" />
+			<img src="/forty-jekyll-theme/assets/images/banner.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
