@@ -19,22 +19,6 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="projet1.html" class="image">
-			<img src="{% link assets/images/jeudemots.png %}" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>WordGame Project</h3>
-				</header>
-				<p>Using Angular, node.js, socket.io</p>
-				<ul class="actions">
-					<li><a href="projet1.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
 		<a href="projet2.html" class="image">
 			<img src="{% link assets/images/logo_steazzi.png %}" alt="" data-position="top center" style="width: 60%;"/>
 		</a>
@@ -51,22 +35,6 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="projet3.html" class="image">
-			<img src="{% link assets/images/moniport.jpg %}" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Moniport</h3>
-				</header>
-				<p>Using GO and MQTT.</p>
-				<ul class="actions">
-					<li><a href="projet3.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
 		<a href="projet4.html" class="image">
 			<img src="{% link assets/images/banner.jpg %}" alt="" data-position="25% 25%" />
 		</a>
@@ -78,6 +46,38 @@ nav-menu: true
 				<p>Using Python, Flask, OpenCV and Flutter.</p>
 				<ul class="actions">
 					<li><a href="projet4.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="projet1.html" class="image">
+			<img src="{% link assets/images/jeudemots.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>WordGame Project</h3>
+				</header>
+				<p>Using Angular, node.js, socket.io</p>
+				<ul class="actions">
+					<li><a href="projet1.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="projet3.html" class="image">
+			<img src="{% link assets/images/moniport.jpg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Moniport</h3>
+				</header>
+				<p>Using GO, Redis and MQTT.</p>
+				<ul class="actions">
+					<li><a href="projet3.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
