@@ -2,7 +2,7 @@
 layout: post
 title: Enigmarium
 description:
-image: assets/images/cmm.JPG
+image: assets/images/placeMarche.jpg
 nav-menu: false
 show_tile: false
 ---
