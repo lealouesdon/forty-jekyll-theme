@@ -6,9 +6,13 @@ image: assets/images/moniport.png
 nav-menu: false
 show_tile: false
 ---
+<h3>The Context</h3>
+<p>This was a school project in a group of 4, organized using Scrum.</p>
 
-School project using GO and MQTT.
-This project was in a grouo of 4, organized using Scrum.
-The goal of this project was to create a Go app and for it to communicate with airport sensors. The sensors where simulated. This project allowed us to discover and work with GO as well as MQTT, to comunicate with the sensors.
+<h3>The Goal</h3>
+<p>The goal of this project was to create a Go app and for it to communicate with airport sensors. The sensors where simulated. This project allowed us to discover and work with GO as well as MQTT, to communicate with the sensors.</p>
+
+<h3>The Technologies</h3>
+<p>This project was coded using Go, Redis and MQTT.</p>
 <br>
 The source code is available here : <a href="https://github.com/lealouesdon/Moniport">https://github.com/lealouesdon/Moniport</a>.
