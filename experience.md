@@ -62,7 +62,7 @@ show_tile: true
 					<h3>Camp Instructor</h3>
 				</header>
 				<p>Telligo</p>
-				<p>In charge of children from 9 to 13 years old. The camp was on the subject of robots.</p>
+				<p>Work in a summer camp for children. In charge of children from 9 to 13 years old. The camp was on the subject of robots.</p>
 			</div>
 		</div>
 	</section>
