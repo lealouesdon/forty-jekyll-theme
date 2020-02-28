@@ -2,7 +2,7 @@
 layout: post
 title: Moniport
 description:
-image: assets/images/moniport.png
+image: assets/images/moniport.jpg
 nav-menu: false
 show_tile: false
 ---
