@@ -2,10 +2,11 @@
 layout: post
 title: CMM
 description:
-image: assets/images/cmm.JPG
+image: assets/images/cmm.png
 nav-menu: false
 show_tile: false
 ---
+
 <h3>The Context</h3>
 <p>CMM (Choisir Mon Métier) is a work project.</p>
 <h3>The Goal</h3>

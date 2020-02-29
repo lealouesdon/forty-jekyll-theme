@@ -36,7 +36,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="projet4.html" class="image">
-			<img src="/forty-jekyll-theme/assets/images//banner.jpg" alt="" data-position="25% 25%" />
+			<img src="/forty-jekyll-theme/assets/images/banner.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -52,7 +52,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="projet1.html" class="image">
-			<img src="/forty-jekyll-theme/assets/images//jeudemots.png" alt="" data-position="center center" />
+			<img src="/forty-jekyll-theme/assets/images/jeudemots.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -84,7 +84,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="projet5.html" class="image">
-			<img src="/forty-jekyll-theme/assets/images/banner.jpg" alt="" data-position="25% 25%" />
+			<img src="/forty-jekyll-theme/assets/images/cmm.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
