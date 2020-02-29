@@ -6,6 +6,7 @@ image: assets/images/placeMarche.jpg
 nav-menu: false
 show_tile: false
 ---
+
 <h3>The Context</h3>
 <p>Enigmarium was a school project in a team of 6.</p>
 <h3>The Goal</h3>
@@ -13,3 +14,5 @@ show_tile: false
 <h3>The Technologies</h3>
 <p>The format of the solution was free so we decided to create a software in JAVA. Our approch was to use an imersive story and games in order to wotk on the school subjects. In the header is a screenshot of a step in the story, the characters leading to games.</p>
 
+<h3>My Contribution</h3>
+<p>I was the main developer for this project. I designed the architecture of the project. I also help create the demos.</p>
