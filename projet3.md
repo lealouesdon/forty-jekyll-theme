@@ -18,6 +18,6 @@ show_tile: false
 An REST API the exposed the data to a web page made with GO templating.</p>
 
 <h3>My Contribution</h3>
-<p>I was Scum master in this project. I helped with the organization of the team. I was also developer, mainly for the FronEnd with Go templating.</p>
+<p>I was Scum master in this project. I helped with the organization of the team. I was also developer, mainly for the FrontEnd with Go templating.</p>
 <br>
 The source code is available here : <a href="https://github.com/lealouesdon/Moniport">https://github.com/lealouesdon/Moniport</a>.
