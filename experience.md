@@ -19,7 +19,7 @@ show_tile: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-	<img src="{% link assets/images/Logo_Hardis_Group_.png %}" alt="" data-position="25% 25%" style="width:30%;"/>
+	<img src="/forty-jekyll-theme/assets/images/Logo_Hardis_Group_.png" alt="" data-position="25% 25%" style="width:30%;"/>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -31,7 +31,7 @@ show_tile: true
 		</div>
 	</section>
     <section>
-		<img src="{% link assets/images/bda_logo.png %}" alt="" data-position="25% 25%" style="width:30%;"/>
+		<img src="/forty-jekyll-theme/assets/images/bda_logo.png " alt="" data-position="25% 25%" style="width:30%;"/>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -43,7 +43,7 @@ show_tile: true
 		</div>
 	</section>
 	<section>
-		<img src="{% link assets/images/st_logo.jpg %}" alt="" data-position="25% 25%" style="width:30%;"/>
+		<img src="/forty-jekyll-theme/assets/images/st_logo.jpg" alt="" data-position="25% 25%" style="width:30%;"/>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -55,7 +55,7 @@ show_tile: true
 		</div>
 	</section>
 	<section>
-	<img src="{% link assets/images/telligo-logo.jpg %}" alt="" data-position="25% 25%" style="width:30%;"/>
+	<img src="/forty-jekyll-theme/assets/images/telligo-logo.jpg" alt="" data-position="25% 25%" style="width:30%;"/>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
